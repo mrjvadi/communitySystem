@@ -1,0 +1,9 @@
+**/.env
+!**/.env.example
+
+bin/
+*.test
+coverage.out
+*.log
+.idea/
+.vscode/
